@@ -1,5 +1,9 @@
 # Bootsy Changelog
 
+## 2.1.1
+* Fixed Chrome bug
+* Replaced glyphicons with FontAwesome
+
 ## 2.1.0
 
 * Rescue failed gallery upload (#111 - thanks @rzane).
